@@ -1,0 +1,10 @@
+# Ignore .env file to keep environment variables secure
+.env
+
+# Other common files to ignore
+*.pyc
+__pycache__/
+*.pyo
+*.db
+*.sqlite3
+*.log
